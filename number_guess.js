@@ -1,4 +1,4 @@
-// guess the number 
+// guess the number git commit 
 
 var guessing_number = function(){
 var number = Math.floor(Math.random()*100+1);
