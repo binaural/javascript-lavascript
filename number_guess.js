@@ -1,4 +1,4 @@
-// guess the number .js file
+// guess the number 
 
 var guessing_number = function(){
 var number = Math.floor(Math.random()*100+1);
