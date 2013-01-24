@@ -1,4 +1,4 @@
-// guess the number
+// guess the number .js file
 
 var guessing_number = function(){
 var number = Math.floor(Math.random()*100+1);
@@ -30,4 +30,4 @@ guessing_number()
 //check if number === guess 'correct' end program
 //if number< guess 'guess to high' guess again
 //if number > guess 'guess to low' guess again
-//git experiement
+///
