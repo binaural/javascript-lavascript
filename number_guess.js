@@ -24,7 +24,7 @@ guessing_number()
 
 
 
-
+//working on git commit for macvim
 //get random number
 //ask for guess
 //check if number === guess 'correct' end program
