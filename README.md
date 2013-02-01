@@ -1,4 +1,4 @@
 javascript-lavascript
 =====================
 
-some simple javascript 
+some simple javascript code
